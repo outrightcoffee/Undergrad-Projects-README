@@ -21,7 +21,7 @@ Student Database:
   
   Utilizing VS Code and C++. Mock database of student information indexed by Student ID.
 
-Pacakage Delivery App:
+Package Delivery App:
 
   Utilizing Known Nearest Neighbor heuristic, Hash Maps, Python, and PyCharm IDE. Simulation of trucks delivering packages in a city, using self ajusting heuristic and non linear data structures.
 
@@ -32,7 +32,7 @@ In Progress:
 SQL project
 Senior Capstone Project
 
-======================================================================================================================================
+==========================================================================================================================================
 
 ALL CODE IS AVAILABLE ONLY UPON REQUEST AND FOR INTERVIEWING/SUITABILITY PURPOSES ONLY.
 
