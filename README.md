@@ -5,6 +5,14 @@ Project codebases available upon request. Index of Projects completed for WGU's 
 
 Completed:
 
+Simulated Disaster Recovery Robot:
+
+   In CoppeliaSim EDU, Basic quadcopter robot with LiDAR object dectection and undermounted camera are simulated. Scripting done in Lua. Basic collision detection and routing are present for scanning "disaster areas"
+
+SQL Data Insights:
+
+   Utilizing PostgreSQL and pgAdmin4, novel data insights of a mock DVD Rental store are provided. Detail and Summary tables are created, along with relevent triggers.
+
 Springboot Auto Shop:
 
    Utilizing Typescript, Springboot, Jetbrains IDE, and Java. Sample webapp of a Auto Parts shop handling stock tracking and order fulfilment.
@@ -29,7 +37,6 @@ Package Delivery App:
 
 In Progress:
 
-SQL project
 Senior Capstone Project
 
 ==========================================================================================================================================
