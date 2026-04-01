@@ -5,6 +5,10 @@ Project codebases available upon request. Index of Projects completed for WGU's 
 
 Completed:
 
+Senior Capstone Project - Machine Learning Stock Evaluator Flask Application:
+
+   Using Scikit-Learn, the user trains an AI to predict stock ratings with confirmation from commercial rating companies such as Zacks, MarketBeat, and WallStreetZen.
+
 Simulated Disaster Recovery Robot:
 
    In CoppeliaSim EDU, Basic quadcopter robot with LiDAR object dectection and undermounted camera are simulated. Scripting done in Lua. Basic collision detection and routing are present for scanning "disaster areas"
@@ -37,7 +41,7 @@ Package Delivery App:
 
 In Progress:
 
-Senior Capstone Project
+
 
 ==========================================================================================================================================
 
